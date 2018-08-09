@@ -1,0 +1,13 @@
+h1{
+    padding-bottom: 50px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    padding: 10px;
+    border: black solid 1px;
+    margin-bottom: 5px;
+}

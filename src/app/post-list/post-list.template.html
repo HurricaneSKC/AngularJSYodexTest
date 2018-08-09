@@ -1,0 +1,32 @@
+<h1>Posting application</h1>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-3">
+            <!--Sidebar content-->
+            <p>
+                Search:
+                <input ng-model="$ctrl.query.title" placeholder="search by title"/>
+            </p>
+            <p>
+                Sort by:
+                <select ng-model="$ctrl.orderProp">
+                    <option value="title">Alphabetical</option>
+                    <option value="id">By user</option>
+                </select>
+            </p>
+        </div>
+        <div class="col-md-9">
+            <!--Body content-->
+            <ul>
+                <li ng-repeat="post in $ctrl.posts | filter:$ctrl.query  | orderBy:$ctrl.orderProp | limitTo: 20">
+                    <h3>Post: {{post.id}}</h3>
+                    <p>Title: {{post.title}}</p>
+                    <p>Body: {{post.body | limitTo: 100}}</p>
+                    <a href="#!/posts/{{post.id}}">Comments for User {{post.id}}</a>
+                    <br>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>

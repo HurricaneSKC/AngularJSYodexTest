@@ -1,0 +1,684 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bl",
+				"blogItems"
+			],
+			[
+				"cli",
+				"clicks"
+			],
+			[
+				"n",
+				"new-class"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"ma",
+				"margin-right\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"f",
+				"false"
+			],
+			[
+				"num",
+				"numfour"
+			],
+			[
+				"se",
+				"secretNumber"
+			],
+			[
+				"l",
+				"lastName"
+			],
+			[
+				"fi",
+				"firstName"
+			],
+			[
+				"p",
+				"prompt"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"bt",
+				"btn-success"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"bord",
+				"border-bottom\tproperty"
+			],
+			[
+				"bor",
+				"border-top\tproperty"
+			],
+			[
+				"bro",
+				"border-bottom\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"c",
+				"cover\tbackground-size"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"min",
+				"minlength\tAttr"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"s",
+				"strong\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/chopra_sk/Desktop/AngularJSYodex/Instruction.md",
+			"settings":
+			{
+				"buffer_size": 1914,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/post-list/post-list.template.html",
+			"settings":
+			{
+				"buffer_size": 853,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/app.module.js",
+			"settings":
+			{
+				"buffer_size": 122,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/post-list/post-list.component.js",
+			"settings":
+			{
+				"buffer_size": 1956,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/post-list/post-list.module.js",
+			"settings":
+			{
+				"buffer_size": 79,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/posts/comments.json",
+			"settings":
+			{
+				"buffer_size": 157746,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/posts/posts.json",
+			"settings":
+			{
+				"buffer_size": 27591,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 508,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "quicktips.md",
+			"settings":
+			{
+				"buffer_size": 47,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/chopra_sk/Desktop/Angular_Test/src/quicktips.md",
+		"/Users/chopra_sk/Desktop/Angular_Test/Gemfile",
+		"/Users/chopra_sk/Desktop/Angular_Test/config.ru",
+		"/Users/chopra_sk/Desktop/Angular_Test/src/js/app/blog-list/blog-list.component2.js",
+		"/Users/chopra_sk/Desktop/ColtSteele/ProductLandingpage/landingpage.css",
+		"/Users/chopra_sk/Desktop/ColtSteele/ProductLandingpage/Productlandingpage.html",
+		"/Users/chopra_sk/Desktop/ColtSteele/sanjay_portfolio.js",
+		"/Users/chopra_sk/Desktop/ColtSteele/sanjay_portfolio.css",
+		"/Users/chopra_sk/Desktop/ColtSteele/sanjay_portfolio.html",
+		"/Users/chopra_sk/Desktop/ColtSteele/penguin.css",
+		"/Users/chopra_sk/Desktop/ColtSteele/myPenguin.html",
+		"/Users/chopra_sk/Desktop/ColtSteele/arrays.js",
+		"/Users/chopra_sk/Desktop/ColtSteele/arrays.html",
+		"/Users/chopra_sk/Desktop/ColtSteele/function.html",
+		"/Users/chopra_sk/Desktop/ColtSteele/functions.js",
+		"/Users/chopra_sk/Desktop/ColtSteele/loop.js",
+		"/Users/chopra_sk/Desktop/ColtSteele/forloop.js",
+		"/Users/chopra_sk/Desktop/ColtSteele/loop.html",
+		"/Users/chopra_sk/Desktop/ColtSteele/gamescript.js",
+		"/Users/chopra_sk/Desktop/ColtSteele/gameca.html",
+		"/Users/chopra_sk/Desktop/ColtSteele/script.js",
+		"/Users/chopra_sk/Desktop/ColtSteele/index.html",
+		"/Users/chopra_sk/Desktop/ColtSteele/imagegallery.html",
+		"/Users/chopra_sk/Desktop/ColtSteele/landingpage.css",
+		"/Users/chopra_sk/Desktop/ColtSteele/landingpage.html",
+		"/Users/chopra_sk/Desktop/ColtSteele/gallery.html",
+		"/Users/chopra_sk/Desktop/ColtSteele/imagegallery.css",
+		"/Users/chopra_sk/Desktop/ColtSteele/bootstrapgrid.html",
+		"/Users/chopra_sk/Desktop/ColtSteele/bootstrap.html",
+		"/Users/chopra_sk/Desktop/ColtSteele/cssblog.css",
+		"/Users/chopra_sk/Desktop/ColtSteele/cssblog.html",
+		"/Users/chopra_sk/Desktop/ColtSteele/gallery.css",
+		"/Users/chopra_sk/Desktop/ColtSteele/tictactoe.css",
+		"/Users/chopra_sk/Desktop/ColtSteele/tictactoe.html",
+		"/Users/chopra_sk/Desktop/ColtSteele/boxmodel.css",
+		"/Users/chopra_sk/Desktop/ColtSteele/boxmodel.html",
+		"/Users/chopra_sk/Desktop/ColtSteele/font.css",
+		"/Users/chopra_sk/Desktop/ColtSteele/font.html",
+		"/Users/chopra_sk/Desktop/ColtSteele/todo.css",
+		"/Users/chopra_sk/Desktop/ColtSteele/todolist.html",
+		"/Users/chopra_sk/Desktop/ColtSteele/app.css",
+		"/Users/chopra_sk/Desktop/ColtSteele/aboutme.html",
+		"/Users/chopra_sk/Desktop/ColtSteele/table.html",
+		"/Users/chopra_sk/Desktop/ColtSteele/ListAssignments.html",
+		"/Users/chopra_sk/Desktop/firstpage.html",
+		"/firstpage.html",
+		"/Users/chopra_sk/Desktop/WebDeveloperUdemy/example.py",
+		"/Users/chopra_sk/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/chopra_sk/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/chopra_sk/Desktop/Web Development/Sanjay Chopra Blog/index.css",
+		"/Users/chopra_sk/Desktop/Web Development/Sanjay Chopra Blog/Index.html",
+		"/Users/chopra_sk/Desktop/main.css",
+		"/Users/chopra_sk/Desktop/now.html",
+		"/Users/chopra_sk/Desktop/new.html",
+		"/Index",
+		"/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/chopra_sk/Desktop/AngularJSYodex/Instruction.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1914,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								141,
+								141
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/post-list/post-list.template.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 853,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/app.module.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/post-list/post-list.component.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1956,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/post-list/post-list.module.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 79,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/posts/comments.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 157746,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/posts/posts.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27591,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 508,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "quicktips.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 47,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46,
+								25
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"<!DOCTYPE html>"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
